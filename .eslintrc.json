@@ -1,0 +1,8 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    // i want to disable eslint
+    "@next/next/no-page-custom-font": "off"
+  }
+}

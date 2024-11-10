@@ -1,0 +1,200 @@
+{
+  "Metadata": {
+    "title": "Paris Architecture",
+    "tagline": "Creating Beautiful Spaces",
+    "description": "Expert Construction Project Management and Interior Design",
+    "keywords": "Paris Architecture, Construction, Interior Design, Renovation, Project Management, Architecture"
+  },
+  "Navigation": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "services": "Services",
+    "references": "References",
+    "talents": "Talents",
+    "aboutUs": "About Us",
+    "our-team":"Our Team",
+    "contact-us": "Contact"
+  },
+
+  "Footer": {
+    "companyName": "Paris Architecture",
+    "findUsOn": "Find us on",
+    "Navigation": {
+      "title": "Company",
+      "home": "Home",
+      "howItWorks": "How It Works",
+      "services": "Services",
+      "references": "References",
+      "contact-us": "Contact",
+      "talents": "Talents"
+    },
+    "Contact": {
+      "title": "Contact",
+      "email": "contact@paris-architecture.fr",
+      "phone": "+33 1 23 45 67 89",
+      "address": "1234 Rue de la Paix, 75000 Paris"
+    }
+  },
+
+  "Home": {
+    "pageTitle": "Paris Architecture - Expert Construction Project Management",
+    "title": "Home",
+    "Hero": {
+      "title": "Build Smarter, Not Harder",
+      "brandName": "Paris Architecture",
+      "description": "  Streamline workflows, enhance collaboration, and deliver projects on time with our advanced construction management platform designed for modern builders.",
+      "Cta": {
+        "GetStarted": {
+          "text": "View Our Services",
+          "link": "/our-services"
+        },
+        "LearnMore": {
+          "text": "Contact Us",
+          "link": "/contact-us"
+        }
+      }
+    },
+    "AboutUsSection": {
+      "title": "About Us",
+      "subtitle": "Creating Beautiful Spaces",
+      "imageAlt": "About Us Image",
+      "description1": "Paris Architecture is a specialized construction project management company dedicated to transforming spaces through expert decoration, interior architecture, and renovation services. With years of experience in the industry, we bring creativity and technical expertise to every project.",
+      "description2": "Our comprehensive project management approach covers all trades involved in construction and renovation. We coordinate and oversee every aspect of your project, from initial design to final execution, ensuring seamless delivery and exceptional results.",
+      "featureTitle1": "Decoration",
+      "featureTitle2": "Interior Architecture", 
+      "featureTitle3": "Renovation",
+      "LearnMoreCTA": {
+        "text": "Learn More",
+        "link": "/our-services"
+      }
+    }
+  },
+  "OurServices": {
+    "title": "Our Services",
+    "description": "Comprehensive construction and renovation services tailored to your needs.",
+    "ForJobSeekers": {
+      "title": "Interior Design",
+      "description": "Creative design solutions that blend aesthetics with functionality, creating spaces that inspire and delight."
+    },
+    "ForEmployers": {
+      "title": "Renovation",
+      "description": "Complete renovation services from concept to completion, transforming outdated spaces into modern masterpieces."
+    },
+    "AsMediator": {
+      "title": "Project Management",
+      "description": "Expert coordination of all aspects of construction projects, ensuring smooth execution and timely delivery."
+    },
+    "AsAdvertisementPlatform": {
+      "title": "Custom Solutions",
+      "description": "Tailored construction solutions that meet your specific needs and requirements."
+    }
+  },
+  "OurReferences": {
+    "title": "Client Testimonials",
+    "description": "Discover what our clients say about their experience with Paris Architecture's construction services.",
+    "Client1": {
+      "testimonial": "Paris Architecture transformed our office space beautifully. Their attention to detail and project management skills are exceptional."
+    },
+    "Client2": {
+      "position": "Property Developer",
+      "testimonial": "Working with Paris Architecture has been a pleasure. They delivered our residential project on time and within budget."
+    },
+    "Client3": {
+      "testimonial": "The renovation of our restaurant exceeded our expectations. Paris Architecture's team was professional and efficient throughout."
+    },
+    "Client4": {
+      "position": "Homeowner",
+      "testimonial": "Paris Architecture brought our dream home to life. Their design expertise and construction quality are outstanding."
+    }
+  },
+  "OurTeamPage": {
+    "title": "Meet Our Team",
+    "description": "Meet the dedicated professionals who make Paris Architecture's construction excellence possible",
+    "MemberGridSection": {
+      "emilyZhao": {
+        "title": "Project Director",
+        "description": "With over 15 years of experience in construction management, Emily leads our most complex renovation projects with precision and expertise."
+      },
+      "alexRivera": {
+        "title": "Senior Architect",
+        "description": "Alex brings creative vision and technical excellence to our projects, specializing in modern architectural solutions and sustainable design."
+      },
+      "sophiaNguyen": {
+        "title": "Interior Design Lead",
+        "description": "Sophia heads our interior design team, creating stunning spaces that perfectly balance aesthetics and functionality."
+      },
+      "marcusJohnson": {
+        "title": "Construction Manager",
+        "description": "Marcus ensures smooth execution of all on-site operations, coordinating with contractors and maintaining the highest quality standards."
+      },
+      "oliviaChen": {
+        "title": "Client Relations Manager",
+        "description": "Olivia ensures seamless communication between our team and clients, making sure every project meets and exceeds expectations."
+      },
+      "jamalThompson": {
+        "title": "Technical Director",
+        "description": "Jamal oversees all technical aspects of our projects, ensuring compliance with building codes and implementation of innovative construction solutions."
+      }
+    },
+    "TestimonialSection": {
+      "title": "What Our Team Says",
+      "member1": {
+        "testimonial": "Being part of Paris Architecture allows me to work on innovative construction projects while delivering exceptional results for our clients.",
+        "role": "Senior Project Manager at Paris Architecture"
+      },
+      "member2": {
+        "testimonial": "The collaborative environment at Paris Architecture enables us to tackle complex construction challenges with creativity and precision.",
+        "role": "Lead Architect at Paris Architecture"
+      },
+      "member3": {
+        "testimonial": "At Paris Architecture, we're committed to excellence in every aspect of construction project management.",
+        "role": "Construction Site Supervisor at Paris Architecture"
+      }
+    }
+  },
+  "HowItWorks": {
+    "title": "Our Process",
+    "Steps": {
+      "One": {
+        "title": "Initial Consultation",
+        "description": "We discuss your vision, requirements, and budget to create a comprehensive project plan."
+      },
+      "Two": {
+        "title": "Design & Planning",
+        "description": "Our team develops detailed designs and plans, incorporating your feedback at every stage."
+      },
+      "Three": {
+        "title": "Execution",
+        "description": "We manage the entire construction process, ensuring quality and timely delivery."
+      }
+    }
+  },
+  "AboutUs": {
+    "title": "About Us",
+    "description": "This is the about us page"
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "address": "Avenue streets,Paris,France",
+    "phone": "+33 123 456 789",
+    "email":"contact@paris-architecture.fr",
+    "description":"Need to get in touch with us ? Edither fill out the form with your inquiry or find the email you'd like to contact below",
+    "Form":{
+      "success":"Thanks for reaching out! We'll get back to you soon.",
+      "Fields":{
+        "firstName":"First Name",
+        "lastName":"Last Name",
+        "email":"Email",
+        "phone":"Phone (Optional)",
+        "role":"Role",
+        "RoleOptions":{
+          "hiring":"Hiring",
+          "jobSeeker":"Job Seeker"
+        },
+        "message":"Message"
+      },
+      "submittingMessage":"Submitting...",
+      "buttonText":"Send Message"
+    }
+  }
+}

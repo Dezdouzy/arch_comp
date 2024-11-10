@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    
+    /* Updated primary colors to match the elegant gold tone */
+    --primary: 39 35% 63%;  /* #DED0C1 base color */
+    --primary-foreground: 0 0% 20%;  /* Dark gray for text on primary */
+    
+    /* Secondary colors for accents and highlights */
+    --secondary: 33 25% 25%;  /* Darker brown */
+    --secondary-foreground: 0 0% 100%;
+    
+    /* Supporting colors */
+    --muted: 39 35% 83%;  /* Lighter version of primary */
+    --muted-foreground: 240 3.8% 46.1%;
+    
+    --accent: 39 35% 43%;  /* Darker version of primary */
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    
+    --border: 39 35% 73%;  /* Medium version of primary */
+    --input: 39 35% 73%;
+    --ring: 39 35% 63%;
+    
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 20 14.3% 4.1%;
+    --foreground: 0 0% 95%;
+    --card: 24 9.8% 10%;
+    --card-foreground: 0 0% 95%;
+    --popover: 0 0% 9%;
+    --popover-foreground: 0 0% 95%;
+    
+    /* Dark mode versions of the colors */
+    --primary: 39 35% 53%;  /* Slightly darker primary for dark mode */
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 33 25% 15%;
+    --secondary-foreground: 0 0% 98%;
+    
+    --muted: 39 35% 73%;
+    --muted-foreground: 240 5% 64.9%;
+    
+    --accent: 39 35% 33%;
+    --accent-foreground: 0 0% 98%;
+    
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 85.7% 97.3%;
+    
+    --border: 39 35% 43%;
+    --input: 39 35% 43%;
+    --ring: 39 35% 53%;
+  }
+}
+
+.paris-architecture-text {
+  color: hsl(var(--primary)) !important;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.page-wrapper {
+  position: relative;
+  min-height: 100vh;
+}
+
+#page-content {
+  will-change: opacity;
+}

@@ -1,0 +1,200 @@
+{
+  "Metadata": {
+    "title": "Architecture de Paris",
+    "tagline": "Création d'espaces magnifiques",
+    "description": "Gestion experte de projets de construction et de design d'intérieur",
+    "keywords": "Architecture de Paris, Construction, Design d'intérieur, Rénovation, Gestion de projet, Architecture"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "howItWorks": "Comment Ça Marche",
+    "services": "Services",
+    "references": "Références",
+    "talents": "Talents",
+    "aboutUs": "À Propos",
+    "our-team": "Notre Équipe",
+    "contact-us": "Contactez-Nous"
+  },
+  "Footer": {
+    "companyName": "Architecture de Paris",
+    "findUsOn": "Retrouvez-nous sur",
+    "Navigation": {
+      "title": "Entreprise",
+      "home": "Accueil",
+      "howItWorks": "Comment Ça Marche",
+      "services": "Services",
+      "references": "Références",
+      "contact-us": "Contact",
+      "talents": "Talents"
+    },
+    "Contact": {
+      "title": "Contact",
+      "email": "contact@paris-architecture.fr",
+      "phone": "+33 1 23 45 67 89",
+      "address": "1234 Rue de la Paix, 75000 Paris"
+    }
+  },
+  "Home": {
+    "pageTitle": "Architecture de Paris - Gestion Experte de Projets de Construction",
+    "title": "Accueil",
+    "Hero": {
+      "title": "Construisez Intelligemment, Pas Durement",
+      "brandName": "Architecture de Paris",
+      "description": "Optimisez les flux de travail, améliorez la collaboration et respectez les délais avec notre plateforme avancée de gestion de construction, conçue pour les bâtisseurs modernes.",
+      "Cta": {
+        "GetStarted": {
+          "text": "Voir Nos Services",
+          "link": "/our-services"
+        },
+        "LearnMore": {
+          "text": "Contactez-nous",
+          "link": "/contact-us"
+        }
+      }
+    },
+    "AboutUsSection": {
+      "title": "À Propos de Nous",
+      "subtitle": "Création d'Espaces Magnifiques",
+      "imageAlt": "Image À Propos de Nous",
+      "description1": "Architecture de Paris est une entreprise spécialisée dans la gestion de projets de construction, dédiée à transformer les espaces à travers des services experts de décoration, d'architecture intérieure et de rénovation. Avec des années d'expérience dans le domaine, nous apportons créativité et expertise technique à chaque projet.",
+      "description2": "Notre approche de gestion de projet couvre tous les métiers impliqués dans la construction et la rénovation. Nous coordonnons et supervisons chaque aspect de votre projet, de la conception initiale à la réalisation finale, pour garantir une livraison sans accroc et des résultats exceptionnels.",
+      "featureTitle1": "Décoration",
+      "featureTitle2": "Architecture Intérieure", 
+      "featureTitle3": "Rénovation",
+      "LearnMoreCTA": {
+        "text": "En Savoir Plus",
+        "link": "/our-services"
+      }
+    }
+  },
+  "OurServices": {
+    "title": "Nos Services",
+    "description": "Services complets de construction et de rénovation adaptés à vos besoins.",
+    "ForJobSeekers": {
+      "title": "Design d'Intérieur",
+      "description": "Solutions de design créatif alliant esthétique et fonctionnalité, pour créer des espaces inspirants et agréables."
+    },
+    "ForEmployers": {
+      "title": "Rénovation",
+      "description": "Services complets de rénovation, de la conception à l'achèvement, transformant des espaces obsolètes en chefs-d'œuvre modernes."
+    },
+    "AsMediator": {
+      "title": "Gestion de Projets",
+      "description": "Coordination experte de tous les aspects des projets de construction, assurant une exécution fluide et une livraison dans les délais."
+    },
+    "AsAdvertisementPlatform": {
+      "title": "Solutions Personnalisées",
+      "description": "Solutions de construction personnalisées répondant à vos besoins et exigences spécifiques."
+    }
+  },
+  "OurReferences": {
+    "title": "Témoignages Clients",
+    "description": "Découvrez ce que nos clients disent de leur expérience avec les services d'Architecture de Paris.",
+    "Client1": {
+      "testimonial": "Architecture de Paris a transformé notre espace de bureau magnifiquement. Leur attention aux détails et compétences en gestion de projet sont exceptionnelles."
+    },
+    "Client2": {
+      "position": "Développeur Immobilier",
+      "testimonial": "Travailler avec Architecture de Paris a été un plaisir. Ils ont livré notre projet résidentiel dans les délais et le budget."
+    },
+    "Client3": {
+      "testimonial": "La rénovation de notre restaurant a dépassé nos attentes. L'équipe d'Architecture de Paris a été professionnelle et efficace de bout en bout."
+    },
+    "Client4": {
+      "position": "Propriétaire de Maison",
+      "testimonial": "Architecture de Paris a réalisé notre maison de rêve. Leur expertise en design et qualité de construction sont exceptionnelles."
+    }
+  },
+  "OurTeamPage": {
+    "title": "Rencontrez Notre Équipe",
+    "description": "Rencontrez les professionnels dévoués qui rendent possible l'excellence de la construction chez Architecture de Paris.",
+    "MemberGridSection": {
+      "emilyZhao": {
+        "title": "Directrice de Projets",
+        "description": "Avec plus de 15 ans d'expérience en gestion de construction, Emily dirige nos projets de rénovation les plus complexes avec précision et expertise."
+      },
+      "alexRivera": {
+        "title": "Architecte Senior",
+        "description": "Alex apporte une vision créative et une excellence technique à nos projets, spécialisé dans les solutions architecturales modernes et le design durable."
+      },
+      "sophiaNguyen": {
+        "title": "Responsable du Design d'Intérieur",
+        "description": "Sophia dirige notre équipe de design d'intérieur, créant des espaces impressionnants qui équilibrent parfaitement esthétique et fonctionnalité."
+      },
+      "marcusJohnson": {
+        "title": "Responsable de la Construction",
+        "description": "Marcus assure une exécution fluide de toutes les opérations sur le site, en coordination avec les entrepreneurs et en maintenant les plus hauts standards de qualité."
+      },
+      "oliviaChen": {
+        "title": "Responsable Relations Client",
+        "description": "Olivia assure une communication fluide entre notre équipe et les clients, garantissant que chaque projet répond aux attentes."
+      },
+      "jamalThompson": {
+        "title": "Directeur Technique",
+        "description": "Jamal supervise tous les aspects techniques de nos projets, garantissant le respect des normes de construction et la mise en œuvre de solutions innovantes."
+      }
+    },
+    "TestimonialSection": {
+      "title": "Ce Que Dit Notre Équipe",
+      "member1": {
+        "testimonial": "Faire partie d'Architecture de Paris me permet de travailler sur des projets de construction innovants tout en fournissant des résultats exceptionnels pour nos clients.",
+        "role": "Responsable de Projets Senior chez Architecture de Paris"
+      },
+      "member2": {
+        "testimonial": "L'environnement collaboratif chez Architecture de Paris nous permet de relever des défis complexes en construction avec créativité et précision.",
+        "role": "Architecte Principal chez Architecture de Paris"
+      },
+      "member3": {
+        "testimonial": "Chez Architecture de Paris, nous nous engageons à l'excellence dans tous les aspects de la gestion de projets de construction.",
+        "role": "Superviseur de Chantier chez Architecture de Paris"
+      }
+    }
+  },
+  "HowItWorks": {
+    "title": "Notre Processus",
+    "Steps": {
+      "One": {
+        "title": "Consultation Initiale",
+        "description": "Nous discutons de votre vision, de vos besoins et de votre budget pour élaborer un plan de projet global."
+      },
+      "Two": {
+        "title": "Design et Planification",
+        "description": "Notre équipe développe des designs et des plans détaillés, intégrant vos retours à chaque étape."
+      },
+      "Three": {
+        "title": "Exécution",
+        "description": "Nous gérons tout le processus de construction, garantissant la qualité et le respect des délais."
+      }
+    }
+  },
+  "AboutUs": {
+    "title": "À Propos de Nous",
+    "description": "Ceci est la page à propos de nous"
+  },
+  "Contact": {
+    "title": "Contactez-Nous",
+    "address": "Avenue des rues, Paris, France",
+    "phone": "+33 123 456 789",
+    "email": "contact@paris-architecture.fr",
+    "description": "Vous souhaitez nous contacter? Remplissez le formulaire avec votre demande ou trouvez l'email ci-dessous pour nous joindre",
+    "Form": {
+      "success": "Merci de nous avoir contactés ! Nous reviendrons vers vous bientôt.",
+      "Fields": {
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "email": "Email",
+        "phone": "Téléphone (Optionnel)",
+        "contactReason": {
+          "title": "Raison du Contact",
+          "business": "Opportunité d'Affaires",
+          "jobSeeker": "En Recherche d'Emploi",
+          "freelance": "Indépendant"
+        },
+        "message": "Message",
+        "submit": "Envoyer"
+      },
+      "submittingMessage":"Envoi en cours...",
+      "buttonText":"Envoyer le message"
+    }
+  }
+}

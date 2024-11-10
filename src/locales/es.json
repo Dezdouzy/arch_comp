@@ -1,0 +1,200 @@
+{
+  "Metadata": {
+    "title": "Arquitectura de París",
+    "tagline": "Creando espacios hermosos",
+    "description": "Gestión de proyectos de construcción y diseño de interiores expertos",
+    "keywords": "Arquitectura de París, Construcción, Diseño de interiores, Renovación, Gestión de proyectos, Arquitectura"
+  },
+  "Navigation": {
+    "home": "Inicio",
+    "howItWorks": "Cómo Funciona",
+    "services": "Servicios",
+    "references": "Referencias",
+    "talents": "Talentos",
+    "aboutUs": "Sobre Nosotros",
+    "our-team": "Nuestro Equipo",
+    "contact-us": "Contacto"
+  },
+  "Footer": {
+    "companyName": "Arquitectura de París",
+    "findUsOn": "Encuéntranos en",
+    "Navigation": {
+      "title": "Compañía",
+      "home": "Inicio",
+      "howItWorks": "Cómo Funciona",
+      "services": "Servicios",
+      "references": "Referencias",
+      "contact-us": "Contacto",
+      "talents": "Talentos"
+    },
+    "Contact": {
+      "title": "Contacto",
+      "email": "contacto@paris-architecture.fr",
+      "phone": "+33 1 23 45 67 89",
+      "address": "1234 Rue de la Paix, 75000 París"
+    }
+  },
+  "Home": {
+    "pageTitle": "Arquitectura de París - Gestión de Proyectos de Construcción Experta",
+    "title": "Inicio",
+    "Hero": {
+      "title": "Construye Inteligente, No Difícil",
+      "brandName": "Arquitectura de París",
+      "description": "Optimice flujos de trabajo, mejore la colaboración y entregue proyectos a tiempo con nuestra plataforma avanzada de gestión de construcción diseñada para constructores modernos.",
+      "Cta": {
+        "GetStarted": {
+          "text": "Ver Nuestros Servicios",
+          "link": "/our-services"
+        },
+        "LearnMore": {
+          "text": "Contáctanos",
+          "link": "/contact-us"
+        }
+      }
+    },
+    "AboutUsSection": {
+      "title": "Sobre Nosotros",
+      "subtitle": "Creando Espacios Hermosos",
+      "imageAlt": "Imagen Sobre Nosotros",
+      "description1": "Arquitectura de París es una empresa especializada en la gestión de proyectos de construcción dedicada a transformar espacios a través de decoración experta, arquitectura interior y servicios de renovación. Con años de experiencia en la industria, aportamos creatividad y experiencia técnica a cada proyecto.",
+      "description2": "Nuestro enfoque integral de gestión de proyectos cubre todos los oficios involucrados en la construcción y renovación. Coordinamos y supervisamos cada aspecto de su proyecto, desde el diseño inicial hasta la ejecución final, asegurando una entrega sin problemas y resultados excepcionales.",
+      "featureTitle1": "Decoración",
+      "featureTitle2": "Arquitectura Interior", 
+      "featureTitle3": "Renovación",
+      "LearnMoreCTA": {
+        "text": "Saber Más",
+        "link": "/our-services"
+      }
+    }
+  },
+  "OurServices": {
+    "title": "Nuestros Servicios",
+    "description": "Servicios completos de construcción y renovación adaptados a sus necesidades.",
+    "ForJobSeekers": {
+      "title": "Diseño de Interiores",
+      "description": "Soluciones de diseño creativo que combinan estética y funcionalidad, creando espacios que inspiran y deleitan."
+    },
+    "ForEmployers": {
+      "title": "Renovación",
+      "description": "Servicios de renovación completos, desde el concepto hasta la finalización, transformando espacios obsoletos en obras maestras modernas."
+    },
+    "AsMediator": {
+      "title": "Gestión de Proyectos",
+      "description": "Coordinación experta de todos los aspectos de los proyectos de construcción, asegurando una ejecución fluida y una entrega puntual."
+    },
+    "AsAdvertisementPlatform": {
+      "title": "Soluciones Personalizadas",
+      "description": "Soluciones de construcción personalizadas que satisfacen sus necesidades y requisitos específicos."
+    }
+  },
+  "OurReferences": {
+    "title": "Testimonios de Clientes",
+    "description": "Descubre lo que nuestros clientes dicen sobre su experiencia con los servicios de construcción de Arquitectura de París.",
+    "Client1": {
+      "testimonial": "Arquitectura de París transformó nuestro espacio de oficina de manera hermosa. Su atención al detalle y habilidades de gestión de proyectos son excepcionales."
+    },
+    "Client2": {
+      "position": "Desarrollador Inmobiliario",
+      "testimonial": "Trabajar con Arquitectura de París ha sido un placer. Entregaron nuestro proyecto residencial a tiempo y dentro del presupuesto."
+    },
+    "Client3": {
+      "testimonial": "La renovación de nuestro restaurante superó nuestras expectativas. El equipo de Arquitectura de París fue profesional y eficiente en todo momento."
+    },
+    "Client4": {
+      "position": "Propietario de Vivienda",
+      "testimonial": "Arquitectura de París hizo realidad nuestra casa soñada. Su experiencia en diseño y calidad de construcción son excepcionales."
+    }
+  },
+  "OurTeamPage": {
+    "title": "Conoce a Nuestro Equipo",
+    "description": "Conozca a los profesionales dedicados que hacen posible la excelencia en construcción de Arquitectura de París.",
+    "MemberGridSection": {
+      "emilyZhao": {
+        "title": "Directora de Proyectos",
+        "description": "Con más de 15 años de experiencia en gestión de construcción, Emily lidera nuestros proyectos de renovación más complejos con precisión y experiencia."
+      },
+      "alexRivera": {
+        "title": "Arquitecto Senior",
+        "description": "Alex aporta visión creativa y excelencia técnica a nuestros proyectos, especializándose en soluciones arquitectónicas modernas y diseño sostenible."
+      },
+      "sophiaNguyen": {
+        "title": "Líder de Diseño de Interiores",
+        "description": "Sophia dirige nuestro equipo de diseño de interiores, creando espacios impresionantes que equilibran perfectamente estética y funcionalidad."
+      },
+      "marcusJohnson": {
+        "title": "Gerente de Construcción",
+        "description": "Marcus garantiza una ejecución fluida de todas las operaciones en el sitio, coordinando con contratistas y manteniendo los más altos estándares de calidad."
+      },
+      "oliviaChen": {
+        "title": "Gerente de Relaciones con Clientes",
+        "description": "Olivia asegura una comunicación fluida entre nuestro equipo y los clientes, asegurando que cada proyecto cumpla y supere las expectativas."
+      },
+      "jamalThompson": {
+        "title": "Director Técnico",
+        "description": "Jamal supervisa todos los aspectos técnicos de nuestros proyectos, asegurando el cumplimiento de los códigos de construcción e implementación de soluciones innovadoras."
+      }
+    },
+    "TestimonialSection": {
+      "title": "Lo Que Dice Nuestro Equipo",
+      "member1": {
+        "testimonial": "Ser parte de Arquitectura de París me permite trabajar en proyectos de construcción innovadores mientras entregamos resultados excepcionales para nuestros clientes.",
+        "role": "Gerente de Proyectos Senior en Arquitectura de París"
+      },
+      "member2": {
+        "testimonial": "El ambiente colaborativo en Arquitectura de París nos permite abordar desafíos complejos de construcción con creatividad y precisión.",
+        "role": "Arquitecto Líder en Arquitectura de París"
+      },
+      "member3": {
+        "testimonial": "En Arquitectura de París, estamos comprometidos con la excelencia en todos los aspectos de la gestión de proyectos de construcción.",
+        "role": "Supervisor de Sitio de Construcción en Arquitectura de París"
+      }
+    }
+  },
+  "HowItWorks": {
+    "title": "Nuestro Proceso",
+    "Steps": {
+      "One": {
+        "title": "Consulta Inicial",
+        "description": "Discutimos su visión, requisitos y presupuesto para crear un plan de proyecto integral."
+      },
+      "Two": {
+        "title": "Diseño y Planificación",
+        "description": "Nuestro equipo desarrolla diseños y planes detallados, incorporando su opinión en cada etapa."
+      },
+      "Three": {
+        "title": "Ejecución",
+        "description": "Gestionamos todo el proceso de construcción, garantizando calidad y entrega puntual."
+      }
+    }
+  },
+  "AboutUs": {
+    "title": "Sobre Nosotros",
+    "description": "Esta es la página sobre nosotros"
+  },
+  "Contact": {
+    "title": "Contáctenos",
+    "address": "Avenue streets, París, Francia",
+    "phone": "+33 123 456 789",
+    "email": "contacto@paris-architecture.fr",
+    "description": "¿Necesitas ponerte en contacto con nosotros? Completa el formulario con tu consulta o encuentra el correo al que deseas contactar a continuación",
+    "Form": {
+      "success": "¡Gracias por contactarnos! Nos pondremos en contacto pronto.",
+      "Fields": {
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "email": "Correo Electrónico",
+        "phone": "Teléfono (Opcional)",
+        "role": "Rol",
+        "RoleOptions": {
+          "hiring": "Contratando Talento",
+          "jobSeeker": "Buscando Trabajo",
+          "freelance": "Trabajando Independientemente"
+        },
+        "message": "Mensaje",
+        "submit": "Enviar"
+      },
+      "submittingMessage":"Enviando...",
+      "buttonText":"Enviar Mensaje"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Our References",
+    "description": "We have worked with some of the biggest companies in the world. Here are some of our references.",
+    "references": [
+      {
+        "id": 1,
+        "name": "Google",
+        "logo": "google.png",
+        "description": "Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+      },
+      {
+        "id": 2,
+        "name": "Facebook",
+        "logo": "facebook.png",
+        "description": "Facebook is an American online social media and social networking service company based in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes."
+      },
+      {
+        "id": 3,
+        "name": "Amazon",
+        "logo": "amazon.png",
+        "description": "Amazon.com, Inc., doing business as Amazon, is an American electronic commerce and cloud computing company based in Seattle, Washington that was founded by Jeff Bezos on July 5, 1994."
+      },
+      {
+        "id": 4,
+        "name": "Apple",
+        "logo": "apple.png",
+        "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services."
+      },
+      {
+        "id": 5,
+        "name": "Microsoft",
+        "logo": "microsoft.png",
+        "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and services."
+      }
+    ]
+  }
+]
